@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'PoliceTitre';
+    src: url('GreatVibes-Regular.otf');
+}
+
+h1
+{
+	font-weight: bold;
+	color: #FFF200;
+	font-family: PoliceTitre, "Arial Black", Arial, Verdana, sans-serif;
+	text-shadow: 8px 8px 2px black;
+	text-align: center;
+}
+
+body
+{
+	background-image: url("fond.jpg");
+	color: white;
+}
+
+h2
+{
+	color: #484848;
+	border-bottom: 3px #FFF200 dotted;
+}
+
+.batphoto
+{
+	float: left;
+}
+
+.dessous
+{
+	clear: both;
+}
+
+p
+{
+	text-align: left;
+}
+
